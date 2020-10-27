@@ -41,7 +41,7 @@ configuration script is included.
 
 For even easier usage, with automatic data conversion, check out the
 [tracetools_analysis](https://github.com/bosch-robotics-cr/tracetools_analysis)
-*at the moment ,this package is not avoilable*
+***at the moment ,this package is not avoilable***
 package. It provides a Python API for easy definition, execution and
 analysis of tracing experiments.
 
